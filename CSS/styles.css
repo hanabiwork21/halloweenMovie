@@ -66,4 +66,17 @@ p {
   body {
     background-color: black;
   }
+
+  .container_copy {
+    padding: 8rem 2rem 5rem 2rem;
+  }
+
+  .card_post {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  .btn_primary {
+    padding: 1rem 3rem !important;
+  }
 }
